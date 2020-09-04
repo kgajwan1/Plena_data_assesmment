@@ -55,6 +55,7 @@ int main()
 {
     
     string s;
+    cout << "Enter a String"<<'\n';
     cin>>s;
     //got uniqueChar
     cout <<uniqueChar(s)<<'\n';
